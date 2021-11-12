@@ -105,7 +105,5 @@ def parser2(filename):
         return genome
 
 
-#parser2("201014.csv")
-parser2("/Users/sylvester/Dropbox/NUS Mod Stuff/FYP/Programming @ GIS/SLComp1-13_SylMAEClones/updatedMAE_26oct.csv")
-#parser2("/Users/sylvester/Dropbox/NUS Mod Stuff/FYP/Programming @ GIS/SLComp1-16_MAximum Coverage MAE clones/MaxCoverageClones3.csv")
+#parser2("file.csv")
 
